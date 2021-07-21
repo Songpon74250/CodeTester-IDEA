@@ -12,7 +12,7 @@ plugins {
     id("org.jetbrains.kotlin.jvm") version "1.5.21" apply false
 
     // IntelliJ Gradle Plugin
-    id("org.jetbrains.intellij") version "1.1.3"
+    id("org.jetbrains.intellij") version "1.1.4"
 
     // IntelliJ Changelog Plugin
     id("org.jetbrains.changelog") version "1.2.0" apply false
